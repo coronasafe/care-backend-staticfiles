@@ -1,0 +1,1 @@
+# care-backend-staticfiles
